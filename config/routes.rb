@@ -1,12 +1,8 @@
 Analysistool::Application.routes.draw do
-  get "locations/index"
 
-  get "locations/new"
-
-  get "locations/show"
-
-  get "locations/edit"
-
+  get 'locations/buscar'
+  get 'locations/resultados'
+  get 'locations/convexo'
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
@@ -20,6 +16,8 @@ Analysistool::Application.routes.draw do
 
   # Sample resource route (maps HTTP verbs to controller actions automatically):
   #   resources :products
+
+
 
   resources :locations do
     collection do

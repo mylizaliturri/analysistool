@@ -1,2 +1,12 @@
-<h1>Locations#show</h1>
-<p>Find me in app/views/locations/show.html.haml</p>
+%h1.title Detalles de la ubicación
+
+%p=link_to @location.name, location_path(@location), :method => :get
+%p='Latitud: '+ @location.latitude.to_s
+%p='Longitud: ' +@location.longitude.to_s
+%p='Descripcion: ' +@location.description
+
+
+%p= show_flash
+
+
+%p= link_to 'Volver a lista de ubicaciones', locations_path

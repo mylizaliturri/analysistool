@@ -1,21 +1,21 @@
-%h1.title Create new Location of Interest
+%h1.title Crear nueva ubicación de interes
 
 = form_tag locations_path, :method => :post do
 
-  = label :location, :latitude, 'Latitude'
+  = label :location, :latitude, 'Latitud'
   = text_field :location, :latitude
 
-  = label :location, :longitude, 'Longitude'
+  = label :location, :longitude, 'Longitud'
   = text_field :location, :longitude
 
-  = label :location, :name, 'Name'
+  = label :location, :name, 'Nombre'
   = text_field :location, :name
 
-  = label :location, :description, 'Description'
+  = label :location, :description, 'Descripción'
   = text_area :location, :description
 
   %p
-  = submit_tag 'Save Changes'
+  = submit_tag 'Guardar cambios'
 
 %p
-= link_to 'Back to location list', locations_path
+= link_to 'Volver a lista de ubicaciones', locations_path

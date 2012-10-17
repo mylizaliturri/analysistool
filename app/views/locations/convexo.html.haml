@@ -1,0 +1,57 @@
+﻿%h1.title Casco convexo
+
+%h2.title Puntos de interés
+%table#table
+  %thead
+    %tr
+      %th Nombre
+      %th Latitud
+      %th Longitud
+      %th Descripción
+      %th
+      %th
+      %th
+  %tbody
+    -@locations.each do |location|
+      %tr
+        %td= location.name
+        %td= location.latitude
+        %td= location.longitude
+        %td= location.description
+        %td= link_to "Editar", edit_location_path(location)
+        %td= link_to "Borrar", location_path(location), :method => :delete, :confirm => '¿Está seguro?'
+
+
+
+%h2.title Puntos del casco convexo
+
+%p='Perimetro del casco convexo: ' +@distancia.to_s
+
+%table#table
+  %thead
+    %tr
+      %th Nombre
+      %th Latitud
+      %th Longitud
+      %th Descripción
+      %th
+      %th
+      %th
+  %tbody
+    -@casco.each do |location|
+      %tr
+        %td= location.name
+        %td= location.latitude
+        %td= location.longitude
+        %td= location.description
+        %td= link_to "Editar", edit_location_path(location)
+        %td= link_to "Borrar", location_path(location), :method => :delete, :confirm => '¿Está seguro?'
+
+
+%h2.title Punto de interés más lejano visitado a partir de Home
+%p='Sitio más lejano: '+@lejano
+
+%p= show_flash
+
+
+%p= link_to 'Volver a lista de ubicaciones', locations_path

@@ -1,4 +1,8 @@
-﻿%h1.title Lista de ubicaciones de interés
+﻿%h1.title Lista puntos de interes cercanos a su ubicación
+
+%p='Latitud ' + @sitio[:latitude].to_s
+%p='Longitud ' + @sitio[:longitude].to_s
+
 
 %table#table
   %thead
@@ -6,12 +10,12 @@
       %th Nombre
       %th Latitud
       %th Longitud
-      %th Descripción 
+      %th Descripción
       %th
       %th
       %th
   %tbody
-    - @locations.each do |location|
+    - @res.each do |location|
       %tr
         %td= link_to location.name, location_path(location), :method => :get
         %td= location.latitude
@@ -22,8 +26,7 @@
 
 %p= show_flash
 
-%p=link_to "Crear nueva ubicación", new_location_path
-%p=link_to "Buscar ubicaciones", locations_buscar_path
-%p=link_to "Casco convexo", locations_convexo_path
 
-%p=link_to "Borrar todo", destroy_all_locations_path, :method => :get, :confirm => '¿Esta seguro?'
+%p=link_to 'Buscar otra ubicación', locations_buscar_path
+
+%p= link_to 'Volver a lista de ubicaciones', locations_path

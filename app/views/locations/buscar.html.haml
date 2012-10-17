@@ -1,0 +1,14 @@
+﻿%h1.title Buscar ubicación de interés
+
+= form_tag locations_resultados_path, :method => :get do
+
+  = label :sitio,:latitude, 'Latitud'
+  = text_field :sitio,:latitude
+
+  = label :sitio,:longitude, 'Longitud'
+  = text_field :sitio,:longitude
+  %p
+  = submit_tag 'Buscar sitio'
+
+%p
+= link_to 'Volver a lista de ubicaciones', locations_path
