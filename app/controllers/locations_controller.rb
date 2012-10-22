@@ -71,13 +71,38 @@
 
   def resultados
     @locations=Location.all
-    @sitio=Location.new(params[:sitio])
     @res=Array.new()
-    #aqui invoco el método de la tarea 1
-    @locations.each { |loc|
-      if inside?(loc, @sitio, 100)
-        @res.push(loc)
-      end }
+
+    if params[:sitio] #búsqueda por coordenadas
+      @sitio=Location.new(params[:sitio])
+      #aqui invoco el método de la tarea 1
+      @locations.each { |loc|
+        if inside?(loc, @sitio, 100)
+          @res.push(loc)
+        end }
+    end
+    if request.post?
+        archivo=params[:json]
+        @parametros=params
+        nombre=archivo
+        directorio="tmp/public/tmp"
+        @path=File.join(directorio, nombre)
+
+        #File.open(@path,"wb+") do |f|
+          #f.write(archivo.read)
+        #end
+
+        f = File.read(@path)
+        coordenadas = JSON.parse(f)
+
+        coordenadas.each {|coord|
+          @sitio=Location.new(coord)
+          @locations.each { |loc|
+            if inside?(loc, @sitio, 100)
+              @res.push(loc)
+            end }
+        }
+    end
   end
 
 
@@ -92,7 +117,9 @@
     @lejano=lejano(@casco,@home)
   end
 
-  # @param [Location] lista
+
+
+# @param [Location] lista
   def perimetro(lista)
     #se requieren al menos tres puntos para definir un perimetro
     if lista.length>=3
@@ -102,14 +129,14 @@
         distancia=distancia+distance(lista[i],lista[i+1])
         i=i+1
       end
-       distancia+distance(lista[i],lista[0])
+      distancia+distance(lista[i],lista[0])
     else
       0
     end
   end
 
-  # @param [Location] lista
-  # @param [Location] home
+# @param [Location] lista
+# @param [Location] home
   def lejano(lista, home)
     #buscar home en las ubicaciones
     if !home.blank?
@@ -122,7 +149,7 @@
     end
   end
 
-  #implementación del método de haversine para calcular la distancia entre dos coordenadas
+#implementación del método de haversine para calcular la distancia entre dos coordenadas
   def distance(l1,l2)
     #equivalencia de kilometros a radianes
     km = 6376
@@ -139,12 +166,12 @@
     km * c*1000
   end
 
-  #implementación del método para verificar sí una coordenada esta dentro de otra en un radio r
+#implementación del método para verificar sí una coordenada esta dentro de otra en un radio r
   def inside?(l1,l2,r)
     distance(l1,l2)<r
   end
 
-  #implementación del método para checar en que ubicación dentro de las conocidas en el arreglo se encuentra (en un radio r)
+#implementación del método para checar en que ubicación dentro de las conocidas en el arreglo se encuentra (en un radio r)
   def where?(l1,locations,r)
 
     locations.each do |l|
@@ -201,9 +228,6 @@
     p0, p1, p2 = list_of_three
     (determinant_function(p0, p2).call(p1) > 0) ^ lower
   end
-
-
-
 
 
 

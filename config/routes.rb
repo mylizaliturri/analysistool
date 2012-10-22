@@ -3,6 +3,8 @@ Analysistool::Application.routes.draw do
   get 'locations/buscar'
   get 'locations/resultados'
   get 'locations/convexo'
+  get 'locations/subir'
+  post 'locations/resultados'
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
