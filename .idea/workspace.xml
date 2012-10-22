@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bad3602-3c59-49cf-b150-cee4a0d1d471" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/development.sqlite3" afterPath="$PROJECT_DIR$/db/development.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/locations_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/locations_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/location.rb" afterPath="$PROJECT_DIR$/app/models/location.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/locations/buscar.html.haml" afterPath="$PROJECT_DIR$/app/views/locations/buscar.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/locations/convexo.html.haml" afterPath="$PROJECT_DIR$/app/views/locations/convexo.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/locations/resultados.html.haml" afterPath="$PROJECT_DIR$/app/views/locations/resultados.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20120927210553_create_locations.rb" afterPath="$PROJECT_DIR$/db/migrate/20120927210553_create_locations.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-    </list>
+    <list default="true" id="7bad3602-3c59-49cf-b150-cee4a0d1d471" name="Default" comment="" />
     <ignored path="analysistool.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
