@@ -15,7 +15,7 @@
 
 %h2.title Por coordenadas en un archivo json
 
-= form_tag locations_resultados_path do
+= form_tag locations_resultados_path :method =>:post do
   = file_field_tag :json
   = submit_tag 'Cargar archivo'
 %p

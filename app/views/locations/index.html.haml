@@ -1,4 +1,13 @@
-﻿%h1.title Lista de ubicaciones de interés
+﻿.map
+  %div#map
+
+%input#locations{:type => "hidden", :value => @locations_json}
+%input#casco{:type => "hidden", :value => @casco_json}
+
+
+%p
+
+%h1.title Lista de ubicaciones de interés
 
 %table#table
   %thead
@@ -23,7 +32,44 @@
 %p= show_flash
 
 %p=link_to "Crear nueva ubicación", new_location_path
-%p=link_to "Buscar ubicaciones", locations_buscar_path
-%p=link_to "Casco convexo", locations_convexo_path
 
+%p
+
+%h1.title Puntos del casco convexo
+
+%p='Perimetro del casco convexo: ' +@distancia.to_s
+
+%table#table
+  %thead
+    %tr
+      %th Nombre
+      %th Latitud
+      %th Longitud
+      %th Descripción
+      %th
+      %th
+      %th
+  %tbody
+    -@casco.each do |location|
+      %tr
+        %td= link_to location.name, location_path(location), :method => :get
+        %td= location.latitude
+        %td= location.longitude
+        %td= location.description
+        %td= link_to "Editar", edit_location_path(location)
+        %td= link_to "Borrar", location_path(location), :method => :delete, :confirm => '¿Está seguro?'
+
+%h1.title Punto de interés más lejano visitado a partir de Home
+%p='Sitio más lejano: '+@lejano
+
+
+%p=link_to "Buscar ubicaciones", locations_buscar_path
 %p=link_to "Borrar todo", destroy_all_locations_path, :method => :get, :confirm => '¿Esta seguro?'
+
+
+
+= javascript_include_tag '/assets/maps/OpenLayers'
+= javascript_include_tag '/assets/maps/locations'
+
+:javascript
+  initMap($("#locations").val(),$("#casco").val() );

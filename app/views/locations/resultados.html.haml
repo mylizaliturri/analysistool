@@ -1,4 +1,11 @@
-﻿%h1.title Lista puntos de interes cercanos a su ubicación
+﻿.map
+  %div#map
+
+%input#locations{:type => "hidden", :value => @locations_json}
+%input#casco{:type => "hidden", :value => @casco_json}
+%input#ruta{:type => "hidden", :value => @ruta_json}
+
+%h1.title Lista puntos de interes cercanos a su ubicación
 
 %p=@path
 %p=@parametros
@@ -29,3 +36,13 @@
 %p=link_to 'Buscar otra ubicación', locations_buscar_path
 
 %p= link_to 'Volver a lista de ubicaciones', locations_path
+
+
+
+
+= javascript_include_tag '/assets/maps/OpenLayers'
+= javascript_include_tag '/assets/maps/locations'
+
+:javascript
+  initMap($("#locations").val(),$("#casco").val());
+  addRoute($("#ruta").val());

@@ -19,7 +19,15 @@ Analysistool::Application.routes.draw do
   # Sample resource route (maps HTTP verbs to controller actions automatically):
   #   resources :products
 
+  resources :users do
+    collection do
+      get :destroy_all
+    end
+  end
 
+  resources :users do
+    resources :gpssamples
+  end
 
   resources :locations do
     collection do

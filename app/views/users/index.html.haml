@@ -1,0 +1,29 @@
+.map
+  %div#map
+
+%input#locations{:type => "hidden", :value => @locations_json}
+%input#casco{:type => "hidden", :value => @casco_json}
+
+%h1.title Lista de usuarios
+%table#table
+  %thead
+    %tr
+      %th Nombre
+      %th
+  %tbody
+    - @users.each do |user|
+      %tr
+        %article
+          %td= link_to user.name, user_path(user)
+          %td= link_to "Borrar", user_path(user), :method => :delete, :confirm => 'Are you sure?'
+
+%p= show_flash
+
+%p=link_to "Crear nuevo usuario", new_user_path
+
+
+= javascript_include_tag '/assets/maps/OpenLayers'
+= javascript_include_tag '/assets/maps/locations'
+
+:javascript
+  initMap($("#locations").val(),$("#casco").val());
