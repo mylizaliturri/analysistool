@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20121023142824) do
+ActiveRecord::Schema.define(:version => 20121107091924) do
 
   create_table "Gpssamples", :force => true do |t|
     t.integer  "userid"
@@ -19,6 +19,14 @@ ActiveRecord::Schema.define(:version => 20121023142824) do
     t.float    "longitude"
     t.integer  "time"
     t.string   "archivo"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
+
+  create_table "actssamples", :force => true do |t|
+    t.integer  "time"
+    t.integer  "count"
+    t.integer  "userid"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end

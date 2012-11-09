@@ -29,6 +29,10 @@ Analysistool::Application.routes.draw do
     resources :gpssamples
   end
 
+  resources :users do
+    resources :actssamples
+  end
+
   resources :locations do
     collection do
       get :destroy_all

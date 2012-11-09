@@ -1,0 +1,85 @@
+%h1.title Detalles de usuario #{@user.name}
+%p= show_flash
+
+%input#inicio1{:value => ""}
+%input#fin1{:value => ""}
+
+.container
+  %div#container
+%p
+.map
+  %div#map
+%p
+
+
+%input#locations{:type => "hidden", :value => @res_json}
+%input#casco{:type => "hidden", :value => @casco_json}
+%input#ruta{:type => "hidden", :value => @ruta_json}
+%input#inicio{:type => "hidden", :value => @inicio}
+%input#fin{:type => "hidden", :value => @fin}
+%input#iniacts{:type=>"hidden",:value=>@iniacts}
+%input#user{:type=>"hidden",:value=>params[:id]}
+
+%label{:for => "span"} Intervalo (segundos)
+%select#span{:name => "span"}
+  %option{:value => "15"} 15
+  %option{:value => "30"} 30
+  %option{:selected => "", :value => "60"} 60
+  %option{:value => "120"} 120
+  %option{:value => "240"} 240
+%input#start{:type => "button", :value => "Inicio"}
+%input#stop{:type => "button", :value => "Fin"}
+
+%h2.Title Subir archivo json de coordenadas
+= form_tag user_gpssamples_path(params[:id]), :method => :post ,  :multipart => true do
+  = file_field_tag 'json'
+  %p= submit_tag 'Enviar archivo'
+
+%h2.Title Subir archivo json de actividades
+= form_tag user_actssamples_path(params[:id]), :method => :post ,  :multipart => true do
+  = file_field_tag 'json'
+  %p= submit_tag 'Enviar archivo'
+
+
+%h2.title Ruta recorrida
+%table#table
+  %thead
+    %tr
+      %th Tiempo
+      %th Latitud
+      %th Longitud
+  %tbody
+    - @ruta.each do |location|
+      %tr
+        %td= Time.at(location.time/1000)
+        %td= location.latitude
+        %td= location.longitude
+
+
+%h2.title Ubicaciones de interés visitadas
+%table#table
+  %thead
+    %tr
+      %th Nombre
+      %th Latitud
+      %th Longitud
+      %th Descripción
+  %tbody
+    - @res.each do |location|
+      %tr
+        %td= link_to location.name, location_path(location)
+        %td= location.latitude
+        %td= location.longitude
+        %td= location.description
+
+  %p= link_to 'Volver a lista de ubicaciones', locations_path
+
+= javascript_include_tag '/assets/maps/OpenLayers'
+= javascript_include_tag '/assets/maps/locations'
+
+= javascript_include_tag '/assets/jquery'
+
+:javascript
+  initMap($("#locations").val(),$("#casco").val());
+  addRoute($("#ruta").val(), $("userid").val());
+

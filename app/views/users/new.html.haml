@@ -1,0 +1,11 @@
+%h1.title Crear usuario
+%p
+  = form_tag users_path, :method => :post do
+
+    = label :user, :name, 'Nombre'
+    = text_field :user, :name
+
+    %p
+    = submit_tag 'Crear usuario'
+%p
+= link_to 'Volver a lista de usuarios', users_path

@@ -1,0 +1,1055 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"7bad3602-3c59-49cf-b150-cee4a0d1d471\" name=\"Default\" comment=\"\" />\n    <ignored path=\"analysistool.iws\" />\n    <ignored path=\".idea/workspace.xml\" />\n    <option name=\"TRACKING_ENABLED\" value=\"true\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ChangesViewManager\" flattened_view=\"true\" show_ignored=\"false\" />\n  <component name=\"CreatePatchCommitExecutor\">\n    <option name=\"PATCH_PATH\" value=\"\" />\n  </component>\n  <component name=\"DaemonCodeAnalyzer\">\n    <disable_hints />\n  </component>\n  <component name=\"DatabaseView\">\n    <flatten value=\"false\" />\n    <groupTables value=\"false\" />\n  </component>\n  <component name=\"FileEditorManager\">\n    <leaf>\n      <file leaf-file-name=\"locations_controller.rb\" pinned=\"false\" current=\"true\" current-in-tab=\"true\">\n        <entry file=\"file://$PROJECT_DIR$/app/controllers/locations_controller.rb\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state line=\"95\" column=\"44\" selection-start=\"2663\" selection-end=\"2663\" vertical-scroll-proportion=\"0.027777778\">\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"buscar.html.haml\" pinned=\"false\" current=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/app/views/locations/buscar.html.haml\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state line=\"17\" column=\"36\" selection-start=\"398\" selection-end=\"398\" vertical-scroll-proportion=\"0.0\">\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"resultados.html.haml\" pinned=\"false\" current=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/app/views/locations/resultados.html.haml\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state line=\"3\" column=\"16\" selection-start=\"82\" selection-end=\"82\" vertical-scroll-proportion=\"0.0\">\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n    </leaf>\n  </component>\n  <component name=\"FindManager\">\n    <FindUsagesManager>\n      <setting name=\"OPEN_NEW_TAB\" value=\"false\" />\n    </FindUsagesManager>\n  </component>\n  <component name=\"GeneratorOptions\">\n    <option name=\"VCS_SHOW_CONFIRMATION\" value=\"true\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\n      <list>\n        <option value=\"Eduardo Quintana &lt;quintana.37@gmail.com&gt;\" />\n      </list>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"b7de885\" />\n      </map>\n    </option>\n  </component>\n  <component name=\"GitLogSettings\">\n    <option name=\"myStructureFilterPaths\" />\n  </component>\n  <component name=\"IdeDocumentHistory\">\n    <option name=\"changedFiles\">\n      <list>\n        <option value=\"$PROJECT_DIR$/app/views/locations/new.html.haml\" />\n        <option value=\"$PROJECT_DIR$/app/views/locations/index.html.haml\" />\n        <option value=\"$PROJECT_DIR$/app/views/locations/show.html.haml\" />\n        <option value=\"$PROJECT_DIR$/app/models/data_file.rb\" />\n        <option value=\"$PROJECT_DIR$/app/views/upload/uploadFile.html.haml\" />\n        <option value=\"$PROJECT_DIR$/app/controllers/upload_controller.rb\" />\n        <option value=\"$PROJECT_DIR$/app/views/locations/convexo.html.haml\" />\n        <option value=\"$PROJECT_DIR$/app/views/locations/subir.html.haml\" />\n        <option value=\"$PROJECT_DIR$/config/routes.rb\" />\n        <option value=\"$PROJECT_DIR$/db/migrate/20121021224500_create_locations.rb\" />\n        <option value=\"$PROJECT_DIR$/db/migrate/20121022054935_add_timestamps.rb\" />\n        <option value=\"$PROJECT_DIR$/db/migrate/20120927210553_create_locations.rb\" />\n        <option value=\"$PROJECT_DIR$/app/models/location.rb\" />\n        <option value=\"$PROJECT_DIR$/app/views/locations/resultados.html.haml\" />\n        <option value=\"$PROJECT_DIR$/app/views/locations/buscar.html.haml\" />\n        <option value=\"$PROJECT_DIR$/app/controllers/locations_controller.rb\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"LogFilters\">\n    <option name=\"FILTER_ERRORS\" value=\"false\" />\n    <option name=\"FILTER_WARNINGS\" value=\"false\" />\n    <option name=\"FILTER_INFO\" value=\"true\" />\n    <option name=\"FILTER_DEBUG\" value=\"true\" />\n    <option name=\"CUSTOM_FILTER\" />\n  </component>\n  <component name=\"ProjectFrameBounds\">\n    <option name=\"x\" value=\"-8\" />\n    <option name=\"y\" value=\"-8\" />\n    <option name=\"width\" value=\"1296\" />\n    <option name=\"height\" value=\"786\" />\n  </component>\n  <component name=\"ProjectInspectionProfilesVisibleTreeState\">\n    <entry key=\"Project Default\">\n      <profile-state>\n        <expanded-state>\n          <State>\n            <id />\n          </State>\n        </expanded-state>\n        <selected-state>\n          <State>\n            <id>CSS</id>\n          </State>\n        </selected-state>\n      </profile-state>\n    </entry>\n  </component>\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <OptionsSetting value=\"true\" id=\"Add\" />\n    <OptionsSetting value=\"true\" id=\"Remove\" />\n    <OptionsSetting value=\"true\" id=\"Checkout\" />\n    <OptionsSetting value=\"true\" id=\"Update\" />\n    <OptionsSetting value=\"true\" id=\"Status\" />\n    <OptionsSetting value=\"true\" id=\"Edit\" />\n    <ConfirmationsSetting value=\"0\" id=\"Add\" />\n    <ConfirmationsSetting value=\"0\" id=\"Remove\" />\n  </component>\n  <component name=\"ProjectReloadState\">\n    <option name=\"STATE\" value=\"0\" />\n  </component>\n  <component name=\"ProjectView\">\n    <navigator currentView=\"ProjectPane\" proportions=\"\" version=\"1\" splitterProportion=\"0.5\">\n      <flattenPackages />\n      <showMembers />\n      <showModules />\n      <showLibraryContents />\n      <hideEmptyPackages />\n      <abbreviatePackageNames />\n      <autoscrollToSource />\n      <autoscrollFromSource />\n      <sortByType />\n    </navigator>\n    <panes>\n      <pane id=\"RailsProjectView\" />\n      <pane id=\"Scope\" />\n      <pane id=\"ProjectPane\">\n        <subPane>\n          <PATH>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode\" />\n            </PATH_ELEMENT>\n          </PATH>\n          <PATH>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n          </PATH>\n          <PATH>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"test\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n          </PATH>\n          <PATH>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"db\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n          </PATH>\n          <PATH>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"db\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"migrate\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n          </PATH>\n          <PATH>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"config\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n          </PATH>\n          <PATH>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"config\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"environments\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n          </PATH>\n          <PATH>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"app\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"views\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"locations\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n          </PATH>\n          <PATH>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"app\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"views\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n          </PATH>\n          <PATH>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"app\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"models\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n          </PATH>\n          <PATH>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"app\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n          </PATH>\n          <PATH>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"analysistool\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"app\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n            <PATH_ELEMENT>\n              <option name=\"myItemId\" value=\"controllers\" />\n              <option name=\"myItemType\" value=\"com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode\" />\n            </PATH_ELEMENT>\n          </PATH>\n        </subPane>\n      </pane>\n    </panes>\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_flatWidth0\" value=\"102\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_flatWidth1\" value=\"131\" />\n    <property name=\"options.splitter.main.proportions\" value=\"0.3\" />\n    <property name=\"recentsLimit\" value=\"5\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_flatOrder1\" value=\"1\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_treeWidth0\" value=\"133\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_flatOrder0\" value=\"0\" />\n    <property name=\"last_opened_file_path\" value=\"C:/Program Files/Git/bin/git.exe\" />\n    <property name=\"RakeTaksPopup.undocumentedIncluded\" value=\"false\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_flatWidth2\" value=\"133\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_treeWidth3\" value=\"807\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_flatWidth3\" value=\"807\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_treeWidth2\" value=\"133\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_treeWidth1\" value=\"131\" />\n    <property name=\"Database.TableEditor.Splitter\" value=\"0.9\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_flatOrder2\" value=\"2\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_flatOrder3\" value=\"3\" />\n    <property name=\"RailsGeneratorsPopup.hiddenIncluded\" value=\"false\" />\n    <property name=\"options.splitter.details.proportions\" value=\"0.2\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_treeOrder0\" value=\"0\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_treeOrder3\" value=\"3\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_treeOrder1\" value=\"1\" />\n    <property name=\"FileHistory.git4idea.history.GitHistoryProvider_treeOrder2\" value=\"2\" />\n    <property name=\"options.lastSelected\" value=\"project.propVCSSupport.VCSs.Git\" />\n    <property name=\"Ruby.ViewRefParam.DefaultExtension\" value=\"html.erb\" />\n    <property name=\"options.searchVisible\" value=\"true\" />\n    <property name=\"dynamic.classpath\" value=\"false\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"C:\\Users\\miguel\\Documents\\GitHub\\analysistool\\db\\migrate\" />\n      <recent name=\"C:\\Users\\miguel\\Documents\\GitHub\\analysistool\\app\\views\\locations\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Rake.db:migrate\">\n    <configuration default=\"false\" name=\"routes\" type=\"RakeRunConfigurationType\" factoryName=\"Rake\" temporary=\"true\">\n      <module name=\"analysistool\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"$PROJECT_DIR$\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <envs />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" bundleExecEnabled=\"false\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" enabled=\"false\" sample_coverage=\"true\" track_test_folders=\"true\" runner=\"rcov\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_NAME\" VALUE=\"routes\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_ARGS\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_ATTACHED_TEST_FRAMEWORKS\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_TRACE\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_DRYRUN\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_PREREQS\" VALUE=\"false\" />\n      <RunnerSettings RunnerId=\"RubyRunner\" />\n      <ConfigurationWrapper RunnerId=\"RubyRunner\" />\n      <method />\n    </configuration>\n    <configuration default=\"false\" name=\"db:migrate\" type=\"RakeRunConfigurationType\" factoryName=\"Rake\" temporary=\"true\">\n      <module name=\"analysistool\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"$PROJECT_DIR$\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <envs />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" enabled=\"false\" sample_coverage=\"true\" track_test_folders=\"true\" runner=\"rcov\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_NAME\" VALUE=\"db:migrate\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_ARGS\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_ATTACHED_TEST_FRAMEWORKS\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_TRACE\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_DRYRUN\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_PREREQS\" VALUE=\"false\" />\n      <RunnerSettings RunnerId=\"RubyRunner\" />\n      <ConfigurationWrapper RunnerId=\"RubyRunner\" />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"RakeRunConfigurationType\" factoryName=\"Rake\">\n      <module name=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <envs />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" bundleExecEnabled=\"false\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" enabled=\"false\" sample_coverage=\"true\" track_test_folders=\"true\" runner=\"rcov\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_NAME\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_ARGS\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_ATTACHED_TEST_FRAMEWORKS\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_TRACE\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_DRYRUN\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_PREREQS\" VALUE=\"false\" />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"RailsRunConfigurationType\" factoryName=\"Rails\">\n      <predefined_log_file id=\"RUBY_RAILS_SERVER\" enabled=\"true\" />\n      <module name=\"\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"$PROJECT_DIR$\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <envs />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" bundleExecEnabled=\"false\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" enabled=\"false\" sample_coverage=\"true\" track_test_folders=\"true\" runner=\"rcov\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"SCRIPT_ARGS\" VALUE=\"\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"PORT\" VALUE=\"3000\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"IP\" VALUE=\"127.0.0.1\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"DUMMY_APP\" VALUE=\"test/dummy\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"RAILS_SERVER_TYPE\" VALUE=\"Default\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"ENVIRONMENT_TYPE\" VALUE=\"development\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"LAUNCH_JS\" VALUE=\"false\" />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"RSpecRunConfigurationType\" factoryName=\"RSpec\">\n      <predefined_log_file id=\"RUBY_RSPEC\" enabled=\"true\" />\n      <module name=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <envs />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" bundleExecEnabled=\"false\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" enabled=\"false\" sample_coverage=\"true\" track_test_folders=\"true\" runner=\"rcov\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"TESTS_FOLDER_PATH\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPT_PATH\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"SPEC_RUNNER_PATH\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_FILE_MASK\" VALUE=\"**/*_spec.rb\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"SPEC_EXAMPLE_NAME\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_TEST_TYPE\" VALUE=\"TEST_SCRIPT\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"SPEC_ARGS\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"RUNNER_VERSION\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"USE_CUSTOM_SPEC_RUNNER\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"DRB\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"FULL_BACKTRACE\" VALUE=\"false\" />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"RubyRunConfigurationType\" factoryName=\"Ruby\">\n      <module name=\"\" />\n      <RUBY_RUN_CONFIG NAME=\"RUBY_ARGS\" VALUE=\"-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)\" />\n      <RUBY_RUN_CONFIG NAME=\"WORK DIR\" VALUE=\"\" />\n      <RUBY_RUN_CONFIG NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RUBY_RUN_CONFIG NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RUBY_RUN_CONFIG NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <envs />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" bundleExecEnabled=\"false\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" enabled=\"false\" sample_coverage=\"true\" track_test_folders=\"true\" runner=\"rcov\" />\n      <RUBY_RUN_CONFIG NAME=\"SCRIPT_PATH\" VALUE=\"\" />\n      <RUBY_RUN_CONFIG NAME=\"SCRIPT_ARGS\" VALUE=\"\" />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"TestUnitRunConfigurationType\" factoryName=\"Test::Unit/Shoulda/Minitest\">\n      <predefined_log_file id=\"RUBY_TESTUNIT\" enabled=\"true\" />\n      <module name=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <envs />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" bundleExecEnabled=\"false\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" enabled=\"false\" sample_coverage=\"true\" track_test_folders=\"true\" runner=\"rcov\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TESTS_FOLDER_PATH\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPT_PATH\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_FILE_MASK\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_METHOD_NAME\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_TEST_TYPE\" VALUE=\"TEST_SCRIPT\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"DRB\" VALUE=\"false\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"RUNNER_OPTIONS\" VALUE=\"\" />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"JavascriptDebugSession\" factoryName=\"Remote\">\n      <JSRemoteDebuggerConfigurationSettings>\n        <option name=\"engineId\" value=\"embedded\" />\n        <option name=\"fileUrl\" />\n      </JSRemoteDebuggerConfigurationSettings>\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"com.intellij.persistence.run.ConsoleRunConfigurationType\" factoryName=\"Query Language Console\">\n      <option name=\"VM_PARAMETERS\" value=\"\" />\n      <option name=\"USER_CFG_CLASS\" />\n      <option name=\"CONTEXT_PROVIDER\" />\n      <method />\n    </configuration>\n    <configuration default=\"false\" name=\"test\" type=\"RakeRunConfigurationType\" factoryName=\"Rake\">\n      <module name=\"analysistool\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"$PROJECT_DIR$\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <envs>\n        <env name=\"RAILS_ENV\" value=\"test\" />\n      </envs>\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" bundleExecEnabled=\"false\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" enabled=\"false\" sample_coverage=\"true\" track_test_folders=\"true\" runner=\"rcov\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_NAME\" VALUE=\"test\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_ARGS\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_ATTACHED_TEST_FRAMEWORKS\" VALUE=\":test_unit \" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_TRACE\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_DRYRUN\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_PREREQS\" VALUE=\"false\" />\n      <method />\n    </configuration>\n    <configuration default=\"false\" name=\"spec\" type=\"RakeRunConfigurationType\" factoryName=\"Rake\">\n      <module name=\"analysistool\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"$PROJECT_DIR$\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <envs />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" bundleExecEnabled=\"false\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" enabled=\"false\" sample_coverage=\"true\" track_test_folders=\"true\" runner=\"rcov\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_NAME\" VALUE=\"spec\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_ARGS\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_ATTACHED_TEST_FRAMEWORKS\" VALUE=\":rspec \" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_TRACE\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_DRYRUN\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_PREREQS\" VALUE=\"false\" />\n      <method />\n    </configuration>\n    <configuration default=\"false\" name=\"Production: analysistool\" type=\"RailsRunConfigurationType\" factoryName=\"Rails\">\n      <predefined_log_file id=\"RUBY_RAILS_SERVER\" enabled=\"true\" />\n      <module name=\"analysistool\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"$PROJECT_DIR$\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <envs />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" bundleExecEnabled=\"false\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" enabled=\"false\" sample_coverage=\"true\" track_test_folders=\"true\" runner=\"rcov\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"SCRIPT_ARGS\" VALUE=\"\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"PORT\" VALUE=\"3000\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"IP\" VALUE=\"127.0.0.1\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"DUMMY_APP\" VALUE=\"test/dummy\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"RAILS_SERVER_TYPE\" VALUE=\"Default\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"ENVIRONMENT_TYPE\" VALUE=\"production\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"LAUNCH_JS\" VALUE=\"false\" />\n      <method />\n    </configuration>\n    <configuration default=\"false\" name=\"Development: analysistool\" type=\"RailsRunConfigurationType\" factoryName=\"Rails\">\n      <predefined_log_file id=\"RUBY_RAILS_SERVER\" enabled=\"true\" />\n      <module name=\"analysistool\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"$PROJECT_DIR$\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <envs />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" bundleExecEnabled=\"false\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" enabled=\"false\" sample_coverage=\"true\" track_test_folders=\"true\" runner=\"rcov\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"SCRIPT_ARGS\" VALUE=\"\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"PORT\" VALUE=\"3000\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"IP\" VALUE=\"127.0.0.1\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"DUMMY_APP\" VALUE=\"test/dummy\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"RAILS_SERVER_TYPE\" VALUE=\"Default\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"ENVIRONMENT_TYPE\" VALUE=\"development\" />\n      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME=\"LAUNCH_JS\" VALUE=\"false\" />\n      <RunnerSettings RunnerId=\"RubyRunner\" />\n      <ConfigurationWrapper RunnerId=\"RubyRunner\" />\n      <method />\n    </configuration>\n    <configuration default=\"false\" name=\"locations_controller\" type=\"RubyRunConfigurationType\" factoryName=\"Ruby\">\n      <module name=\"analysistool\" />\n      <RUBY_RUN_CONFIG NAME=\"RUBY_ARGS\" VALUE=\"-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)\" />\n      <RUBY_RUN_CONFIG NAME=\"WORK DIR\" VALUE=\"$PROJECT_DIR$/app/controllers\" />\n      <RUBY_RUN_CONFIG NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RUBY_RUN_CONFIG NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RUBY_RUN_CONFIG NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <envs />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" enabled=\"false\" sample_coverage=\"true\" track_test_folders=\"true\" runner=\"rcov\" />\n      <RUBY_RUN_CONFIG NAME=\"SCRIPT_PATH\" VALUE=\"$PROJECT_DIR$/app/controllers/locations_controller.rb\" />\n      <RUBY_RUN_CONFIG NAME=\"SCRIPT_ARGS\" VALUE=\"\" />\n      <method />\n    </configuration>\n    <configuration default=\"false\" name=\"All tests in: migrate\" type=\"TestUnitRunConfigurationType\" factoryName=\"Test::Unit/Shoulda/Minitest\">\n      <predefined_log_file id=\"RUBY_TESTUNIT\" enabled=\"true\" />\n      <module name=\"analysistool\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"$PROJECT_DIR$/db/migrate\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <envs>\n        <env name=\"RAILS_ENV\" value=\"test\" />\n        <env name=\"JRUBY_OPTS\" value=\"-X+O\" />\n      </envs>\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" enabled=\"false\" sample_coverage=\"true\" track_test_folders=\"true\" runner=\"rcov\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TESTS_FOLDER_PATH\" VALUE=\"$PROJECT_DIR$/db/migrate\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPT_PATH\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_FILE_MASK\" VALUE=\"**/{*_test,test_*}.rb\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_METHOD_NAME\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_TEST_TYPE\" VALUE=\"ALL_IN_FOLDER\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"DRB\" VALUE=\"false\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"RUNNER_OPTIONS\" VALUE=\"\" />\n      <method />\n    </configuration>\n    <list size=\"8\">\n      <item index=\"0\" class=\"java.lang.String\" itemvalue=\"Rake.test\" />\n      <item index=\"1\" class=\"java.lang.String\" itemvalue=\"Rake.spec\" />\n      <item index=\"2\" class=\"java.lang.String\" itemvalue=\"Rails.Production: analysistool\" />\n      <item index=\"3\" class=\"java.lang.String\" itemvalue=\"Rails.Development: analysistool\" />\n      <item index=\"4\" class=\"java.lang.String\" itemvalue=\"Ruby.locations_controller\" />\n      <item index=\"5\" class=\"java.lang.String\" itemvalue=\"Test::Unit/Shoulda/Minitest.All tests in: migrate\" />\n      <item index=\"6\" class=\"java.lang.String\" itemvalue=\"Rake.routes\" />\n      <item index=\"7\" class=\"java.lang.String\" itemvalue=\"Rake.db:migrate\" />\n    </list>\n    <recent_temporary>\n      <list size=\"5\">\n        <item index=\"0\" class=\"java.lang.String\" itemvalue=\"Rake.db:migrate\" />\n        <item index=\"1\" class=\"java.lang.String\" itemvalue=\"Rake.db:migrate\" />\n        <item index=\"2\" class=\"java.lang.String\" itemvalue=\"Rake.db:migrate\" />\n        <item index=\"3\" class=\"java.lang.String\" itemvalue=\"Rake.db:migrate\" />\n        <item index=\"4\" class=\"java.lang.String\" itemvalue=\"Rake.routes\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"ShelveChangesManager\" show_recycled=\"false\" />\n  <component name=\"SvnConfiguration\" maxAnnotateRevisions=\"500\" myUseAcceleration=\"nothing\" myAutoUpdateAfterCommit=\"false\" cleanupOnStartRun=\"false\">\n    <option name=\"USER\" value=\"\" />\n    <option name=\"PASSWORD\" value=\"\" />\n    <option name=\"mySSHConnectionTimeout\" value=\"30000\" />\n    <option name=\"mySSHReadTimeout\" value=\"30000\" />\n    <option name=\"LAST_MERGED_REVISION\" />\n    <option name=\"MERGE_DRY_RUN\" value=\"false\" />\n    <option name=\"MERGE_DIFF_USE_ANCESTRY\" value=\"true\" />\n    <option name=\"UPDATE_LOCK_ON_DEMAND\" value=\"false\" />\n    <option name=\"IGNORE_SPACES_IN_MERGE\" value=\"false\" />\n    <option name=\"DETECT_NESTED_COPIES\" value=\"true\" />\n    <option name=\"CHECK_NESTED_FOR_QUICK_MERGE\" value=\"false\" />\n    <option name=\"IGNORE_SPACES_IN_ANNOTATE\" value=\"true\" />\n    <option name=\"SHOW_MERGE_SOURCES_IN_ANNOTATE\" value=\"true\" />\n    <option name=\"FORCE_UPDATE\" value=\"false\" />\n    <option name=\"IGNORE_EXTERNALS\" value=\"false\" />\n    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"7bad3602-3c59-49cf-b150-cee4a0d1d471\" name=\"Default\" comment=\"\" />\n      <created>1348778713029</created>\n      <updated>1348778713029</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Git integration to RubyMine\">\n      <created>1349897661161</created>\n      <updated>1349897661161</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Git integration to RubyMine\">\n      <created>1349897991034</created>\n      <updated>1349897991034</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"TodoView\" selected-index=\"0\">\n    <todo-panel id=\"selected-file\">\n      <are-packages-shown value=\"false\" />\n      <are-modules-shown value=\"false\" />\n      <flatten-packages value=\"false\" />\n      <is-autoscroll-to-source value=\"false\" />\n    </todo-panel>\n    <todo-panel id=\"all\">\n      <are-packages-shown value=\"false\" />\n      <are-modules-shown value=\"false\" />\n      <flatten-packages value=\"false\" />\n      <is-autoscroll-to-source value=\"false\" />\n    </todo-panel>\n    <todo-panel id=\"default-changelist\">\n      <are-packages-shown value=\"false\" />\n      <are-modules-shown value=\"false\" />\n      <flatten-packages value=\"false\" />\n      <is-autoscroll-to-source value=\"false\" />\n    </todo-panel>\n  </component>\n  <component name=\"ToolWindowManager\">\n    <frame x=\"-8\" y=\"-8\" width=\"1296\" height=\"786\" extended-state=\"6\" />\n    <editor active=\"false\" />\n    <layout>\n      <window_info id=\"Changes\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.3276923\" sideWeight=\"0.49675852\" order=\"7\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"TODO\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.3276923\" sideWeight=\"0.49675852\" order=\"6\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Database\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.32820097\" sideWeight=\"0.76461536\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Structure\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.28038898\" sideWeight=\"0.4430769\" order=\"1\" side_tool=\"true\" content_ui=\"tabs\" />\n      <window_info id=\"Project\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"true\" weight=\"0.29011345\" sideWeight=\"0.67230767\" order=\"0\" side_tool=\"false\" content_ui=\"combo\" />\n      <window_info id=\"Debug\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.4\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Favorites\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.39384118\" sideWeight=\"0.43059936\" order=\"2\" side_tool=\"true\" content_ui=\"tabs\" />\n      <window_info id=\"Event Log\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.5676923\" sideWeight=\"0.49756888\" order=\"7\" side_tool=\"true\" content_ui=\"tabs\" />\n      <window_info id=\"Run\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.23538461\" sideWeight=\"0.92046934\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Version Control\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.3276923\" sideWeight=\"0.49359658\" order=\"7\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Cvs\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.25\" sideWeight=\"0.5\" order=\"4\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Message\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.33\" sideWeight=\"0.5\" order=\"0\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Ant Build\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.25\" sideWeight=\"0.5\" order=\"1\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Find\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.3276923\" sideWeight=\"0.5\" order=\"1\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Messages\" active=\"true\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"true\" weight=\"0.21570796\" sideWeight=\"0.4910913\" order=\"7\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Commander\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.4\" sideWeight=\"0.5\" order=\"0\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Hierarchy\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.25\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"combo\" />\n      <window_info id=\"Inspection\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" weight=\"0.4\" sideWeight=\"0.5\" order=\"5\" side_tool=\"false\" content_ui=\"tabs\" />\n    </layout>\n  </component>\n  <component name=\"VcsContentAnnotationSettings\">\n    <option name=\"myLimit\" value=\"2678400000\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT\" value=\"true\" />\n    <option name=\"CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT\" value=\"true\" />\n    <option name=\"CHECK_NEW_TODO\" value=\"true\" />\n    <option name=\"myTodoPanelSettings\">\n      <value>\n        <are-packages-shown value=\"false\" />\n        <are-modules-shown value=\"false\" />\n        <flatten-packages value=\"false\" />\n        <is-autoscroll-to-source value=\"false\" />\n      </value>\n    </option>\n    <option name=\"PERFORM_UPDATE_IN_BACKGROUND\" value=\"true\" />\n    <option name=\"PERFORM_COMMIT_IN_BACKGROUND\" value=\"true\" />\n    <option name=\"PERFORM_EDIT_IN_BACKGROUND\" value=\"true\" />\n    <option name=\"PERFORM_CHECKOUT_IN_BACKGROUND\" value=\"true\" />\n    <option name=\"PERFORM_ADD_REMOVE_IN_BACKGROUND\" value=\"true\" />\n    <option name=\"PERFORM_ROLLBACK_IN_BACKGROUND\" value=\"false\" />\n    <option name=\"CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND\" value=\"false\" />\n    <option name=\"CHANGED_ON_SERVER_INTERVAL\" value=\"60\" />\n    <option name=\"SHOW_ONLY_CHANGED_IN_SELECTION_DIFF\" value=\"true\" />\n    <option name=\"CHECK_COMMIT_MESSAGE_SPELLING\" value=\"true\" />\n    <option name=\"DEFAULT_PATCH_EXTENSION\" value=\"patch\" />\n    <option name=\"SHORT_DIFF_HORISONTALLY\" value=\"true\" />\n    <option name=\"SHORT_DIFF_EXTRA_LINES\" value=\"2\" />\n    <option name=\"SOFT_WRAPS_IN_SHORT_DIFF\" value=\"true\" />\n    <option name=\"INCLUDE_TEXT_INTO_PATCH\" value=\"false\" />\n    <option name=\"INCLUDE_TEXT_INTO_SHELF\" value=\"false\" />\n    <option name=\"SHOW_FILE_HISTORY_DETAILS\" value=\"true\" />\n    <option name=\"SHOW_VCS_ERROR_NOTIFICATIONS\" value=\"true\" />\n    <option name=\"FORCE_NON_EMPTY_COMMENT\" value=\"false\" />\n    <option name=\"CLEAR_INITIAL_COMMIT_MESSAGE\" value=\"false\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"removed tables from views (bad practice), except for index\" />\n    <option name=\"MAKE_NEW_CHANGELIST_ACTIVE\" value=\"false\" />\n    <option name=\"OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT\" value=\"false\" />\n    <option name=\"CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT\" value=\"false\" />\n    <option name=\"REFORMAT_BEFORE_PROJECT_COMMIT\" value=\"false\" />\n    <option name=\"REFORMAT_BEFORE_FILE_COMMIT\" value=\"false\" />\n    <option name=\"FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION\" value=\"0.8\" />\n    <option name=\"FILE_HISTORY_DIALOG_SPLITTER_PROPORTION\" value=\"0.5\" />\n    <option name=\"ACTIVE_VCS_NAME\" />\n    <option name=\"UPDATE_GROUP_BY_PACKAGES\" value=\"false\" />\n    <option name=\"UPDATE_GROUP_BY_CHANGELIST\" value=\"false\" />\n    <option name=\"SHOW_FILE_HISTORY_AS_TREE\" value=\"false\" />\n    <option name=\"FILE_HISTORY_SPLITTER_PROPORTION\" value=\"0.6\" />\n    <MESSAGE value=\"Git integration to RubyMine\" />\n    <MESSAGE value=\"removed tables from views (bad practice), except for index\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"ruby-line\">\n          <url>file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activerecord-3.2.8/lib/active_record/migration.rb</url>\n          <line>374</line>\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n  <component name=\"editorHistoryManager\">\n    <entry file=\"file://$PROJECT_DIR$/app/views/locations/index.html.haml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state line=\"0\" column=\"0\" selection-start=\"0\" selection-end=\"0\" vertical-scroll-proportion=\"0.0\" />\n      </provider>\n    </entry>\n    <entry file=\"dbDummy://dbElement:/3b8edfb7/6f27130f-467f-4168-baf7-2c2f05e2f9e1/..schema_migrations\">\n      <provider selected=\"true\" editor-type-id=\"com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider\">\n        <state />\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/app/helpers/locations_helper.rb\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state line=\"0\" column=\"0\" selection-start=\"0\" selection-end=\"0\" vertical-scroll-proportion=\"0.0\">\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/app/views/locations/show.html.haml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state line=\"4\" column=\"0\" selection-start=\"145\" selection-end=\"145\" vertical-scroll-proportion=\"-2.6153846\">\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/app/views/layouts/application.html.haml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state line=\"10\" column=\"35\" selection-start=\"165\" selection-end=\"165\" vertical-scroll-proportion=\"0.29565218\">\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/app/assets/images/rails.png\">\n      <provider selected=\"true\" editor-type-id=\"images\">\n        <state />\n      </provider>\n    </entry>\n    <entry file=\"dbDummy://dbElement:/3b8edfb7/6f27130f-467f-4168-baf7-2c2f05e2f9e1/..locations\">\n      <provider selected=\"true\" editor-type-id=\"com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider\">\n        <state />\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/db/migrate/20120927210553_create_locations.rb\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state line=\"10\" column=\"0\" selection-start=\"433\" selection-end=\"433\" vertical-scroll-proportion=\"0.3761062\">\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/test/fixtures/data_files.yml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state line=\"11\" column=\"5\" selection-start=\"353\" selection-end=\"353\" vertical-scroll-proportion=\"0.47704083\" />\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/test/unit/data_file_test.rb\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state line=\"0\" column=\"0\" selection-start=\"0\" selection-end=\"0\" vertical-scroll-proportion=\"0.0\" />\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/app/views/locations/convexo.html.haml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state line=\"0\" column=\"0\" selection-start=\"0\" selection-end=\"0\" vertical-scroll-proportion=\"0.0\">\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/db/migrate/20121022055330_add_timestamps_to_locations.rb\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state line=\"5\" column=\"35\" selection-start=\"128\" selection-end=\"128\" vertical-scroll-proportion=\"0.21683674\">\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/app/models/location.rb\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state line=\"3\" column=\"0\" selection-start=\"169\" selection-end=\"169\" vertical-scroll-proportion=\"0.123786405\">\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/app/views/locations/resultados.html.haml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state line=\"3\" column=\"16\" selection-start=\"82\" selection-end=\"82\" vertical-scroll-proportion=\"0.0\">\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/app/views/locations/buscar.html.haml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state line=\"17\" column=\"36\" selection-start=\"398\" selection-end=\"398\" vertical-scroll-proportion=\"0.0\">\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/app/controllers/locations_controller.rb\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state line=\"95\" column=\"44\" selection-start=\"2663\" selection-end=\"2663\" vertical-scroll-proportion=\"0.027777778\">\n          <folding />\n        </state>\n      </provider>\n    </entry>\n  </component>\n</project>\n\n
+===================================================================
+--- .idea/workspace.xml	(date 1350922243000)
++++ .idea/workspace.xml	(revision )
+@@ -1,7 +1,20 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="7bad3602-3c59-49cf-b150-cee4a0d1d471" name="Default" comment="" />
++    <list default="true" id="7bad3602-3c59-49cf-b150-cee4a0d1d471" name="Default" comment="">
++      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/index.html.haml" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/development.sqlite3" afterPath="$PROJECT_DIR$/db/development.sqlite3" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/locations_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/locations_controller.rb" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/location.rb" afterPath="$PROJECT_DIR$/app/models/location.rb" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/locations/buscar.html.haml" afterPath="$PROJECT_DIR$/app/views/locations/buscar.html.haml" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/locations/index.html.haml" afterPath="$PROJECT_DIR$/app/views/locations/index.html.haml" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/locations/resultados.html.haml" afterPath="$PROJECT_DIR$/app/views/locations/resultados.html.haml" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
++    </list>
+     <ignored path="analysistool.iws" />
+     <ignored path=".idea/workspace.xml" />
+     <option name="TRACKING_ENABLED" value="true" />
+@@ -23,33 +36,85 @@
+   </component>
+   <component name="FileEditorManager">
+     <leaf>
+-      <file leaf-file-name="locations_controller.rb" pinned="false" current="true" current-in-tab="true">
+-        <entry file="file://$PROJECT_DIR$/app/controllers/locations_controller.rb">
++      <file leaf-file-name="locations.js" pinned="false" current="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/maps/locations.js">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state line="95" column="44" selection-start="2663" selection-end="2663" vertical-scroll-proportion="0.027777778">
++            <state line="109" column="72" selection-start="4079" selection-end="4079" vertical-scroll-proportion="0.0">
+               <folding />
+             </state>
+           </provider>
+         </entry>
+       </file>
+-      <file leaf-file-name="buscar.html.haml" pinned="false" current="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/app/views/locations/buscar.html.haml">
++      <file leaf-file-name="..gpssamples" pinned="false" current="false" current-in-tab="false">
++        <entry file="dbDummy://dbElement:/3b8edfb7/6f27130f-467f-4168-baf7-2c2f05e2f9e1/..gpssamples">
++          <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
++            <state />
++          </provider>
++        </entry>
++      </file>
++      <file leaf-file-name="users_controller.rb" pinned="false" current="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state line="17" column="36" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
++            <state line="67" column="2" selection-start="1684" selection-end="1684" vertical-scroll-proportion="0.0">
+               <folding />
+             </state>
+           </provider>
+         </entry>
+       </file>
+-      <file leaf-file-name="resultados.html.haml" pinned="false" current="false" current-in-tab="false">
++      <file leaf-file-name="index.html.haml" pinned="false" current="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/app/views/users/index.html.haml">
++          <provider selected="true" editor-type-id="text-editor">
++            <state line="9" column="44" selection-start="193" selection-end="193" vertical-scroll-proportion="-5.8846154">
++              <folding />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file leaf-file-name="locations_controller.rb" pinned="false" current="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/app/controllers/locations_controller.rb">
++          <provider selected="true" editor-type-id="text-editor">
++            <state line="164" column="7" selection-start="4256" selection-end="4256" vertical-scroll-proportion="0.0">
++              <folding />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file leaf-file-name="resultados.html.haml" pinned="false" current="true" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/app/views/locations/resultados.html.haml">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state line="3" column="16" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
++            <state line="3" column="46" selection-start="63" selection-end="63" vertical-scroll-proportion="0.11617312">
+               <folding />
+             </state>
+           </provider>
+         </entry>
+       </file>
++      <file leaf-file-name="new.html.haml" pinned="false" current="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/app/views/users/new.html.haml">
++          <provider selected="true" editor-type-id="text-editor">
++            <state line="9" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="-5.8846154">
++              <folding />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file leaf-file-name="user.rb" pinned="false" current="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
++          <provider selected="true" editor-type-id="text-editor">
++            <state line="1" column="25" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
++              <folding />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file leaf-file-name="show.html.haml" pinned="false" current="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/app/views/users/show.html.haml">
++          <provider selected="true" editor-type-id="text-editor">
++            <state line="13" column="53" selection-start="395" selection-end="395" vertical-scroll-proportion="-8.5">
++              <folding />
++            </state>
++          </provider>
++        </entry>
++      </file>
+     </leaf>
+   </component>
+   <component name="FindManager">
+@@ -63,6 +128,8 @@
+   <component name="Git.Settings">
+     <option name="PREVIOUS_COMMIT_AUTHORS">
+       <list>
++        <option value="Miguel Angel Ylizaliturri Salcedo" />
++        <option value="miguel ylizaliturri" />
+         <option value="Eduardo Quintana &lt;quintana.37@gmail.com&gt;" />
+       </list>
+     </option>
+@@ -79,22 +146,22 @@
+   <component name="IdeDocumentHistory">
+     <option name="changedFiles">
+       <list>
+-        <option value="$PROJECT_DIR$/app/views/locations/new.html.haml" />
+-        <option value="$PROJECT_DIR$/app/views/locations/index.html.haml" />
+-        <option value="$PROJECT_DIR$/app/views/locations/show.html.haml" />
+-        <option value="$PROJECT_DIR$/app/models/data_file.rb" />
+-        <option value="$PROJECT_DIR$/app/views/upload/uploadFile.html.haml" />
+-        <option value="$PROJECT_DIR$/app/controllers/upload_controller.rb" />
+-        <option value="$PROJECT_DIR$/app/views/locations/convexo.html.haml" />
+-        <option value="$PROJECT_DIR$/app/views/locations/subir.html.haml" />
++        <option value="$PROJECT_DIR$/app/controllers/locations_controller.rb" />
++        <option value="$PROJECT_DIR$/app/controllers/gps_controller.rb" />
+         <option value="$PROJECT_DIR$/config/routes.rb" />
+-        <option value="$PROJECT_DIR$/db/migrate/20121021224500_create_locations.rb" />
+-        <option value="$PROJECT_DIR$/db/migrate/20121022054935_add_timestamps.rb" />
+-        <option value="$PROJECT_DIR$/db/migrate/20120927210553_create_locations.rb" />
+-        <option value="$PROJECT_DIR$/app/models/location.rb" />
++        <option value="$PROJECT_DIR$/app/models/gps_sample.rb" />
++        <option value="$PROJECT_DIR$/app/controllers/gps_samples_controller.rb" />
++        <option value="$PROJECT_DIR$/app/models/gpssample.rb" />
++        <option value="$PROJECT_DIR$/db/migrate/20121023140738_update_gpssamples.rb" />
++        <option value="$PROJECT_DIR$/db/migrate/20121023142824_update_gpssamples2.rb" />
+         <option value="$PROJECT_DIR$/app/views/locations/resultados.html.haml" />
+-        <option value="$PROJECT_DIR$/app/views/locations/buscar.html.haml" />
+-        <option value="$PROJECT_DIR$/app/controllers/locations_controller.rb" />
++        <option value="$PROJECT_DIR$/app/controllers/gpssamples_controller.rb" />
++        <option value="$PROJECT_DIR$/app/views/users/show.html.haml" />
++        <option value="$PROJECT_DIR$/app/models/user.rb" />
++        <option value="$PROJECT_DIR$/app/views/users/new.html.haml" />
++        <option value="$PROJECT_DIR$/app/assets/javascripts/maps/locations.js" />
++        <option value="$PROJECT_DIR$/app/views/users/index.html.haml" />
++        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+       </list>
+     </option>
+   </component>
+@@ -134,7 +201,7 @@
+     <OptionsSetting value="true" id="Update" />
+     <OptionsSetting value="true" id="Status" />
+     <OptionsSetting value="true" id="Edit" />
+-    <ConfirmationsSetting value="0" id="Add" />
++    <ConfirmationsSetting value="1" id="Add" />
+     <ConfirmationsSetting value="0" id="Remove" />
+   </component>
+   <component name="ProjectReloadState">
+@@ -153,7 +220,6 @@
+       <sortByType />
+     </navigator>
+     <panes>
+-      <pane id="RailsProjectView" />
+       <pane id="Scope" />
+       <pane id="ProjectPane">
+         <subPane>
+@@ -183,7 +249,7 @@
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+             <PATH_ELEMENT>
+-              <option name="myItemId" value="test" />
++              <option name="myItemId" value="config" />
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+           </PATH>
+@@ -197,9 +263,17 @@
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+             <PATH_ELEMENT>
+-              <option name="myItemId" value="db" />
++              <option name="myItemId" value="app" />
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
++            <PATH_ELEMENT>
++              <option name="myItemId" value="views" />
++              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
++            </PATH_ELEMENT>
++            <PATH_ELEMENT>
++              <option name="myItemId" value="users" />
++              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
++            </PATH_ELEMENT>
+           </PATH>
+           <PATH>
+             <PATH_ELEMENT>
+@@ -211,11 +285,11 @@
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+             <PATH_ELEMENT>
+-              <option name="myItemId" value="db" />
++              <option name="myItemId" value="app" />
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+             <PATH_ELEMENT>
+-              <option name="myItemId" value="migrate" />
++              <option name="myItemId" value="views" />
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+           </PATH>
+@@ -229,9 +303,13 @@
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+             <PATH_ELEMENT>
+-              <option name="myItemId" value="config" />
++              <option name="myItemId" value="app" />
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
++            <PATH_ELEMENT>
++              <option name="myItemId" value="models" />
++              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
++            </PATH_ELEMENT>
+           </PATH>
+           <PATH>
+             <PATH_ELEMENT>
+@@ -243,13 +321,9 @@
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+             <PATH_ELEMENT>
+-              <option name="myItemId" value="config" />
++              <option name="myItemId" value="app" />
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+-            <PATH_ELEMENT>
+-              <option name="myItemId" value="environments" />
+-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+-            </PATH_ELEMENT>
+           </PATH>
+           <PATH>
+             <PATH_ELEMENT>
+@@ -265,13 +339,9 @@
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+             <PATH_ELEMENT>
+-              <option name="myItemId" value="views" />
++              <option name="myItemId" value="controllers" />
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+-            <PATH_ELEMENT>
+-              <option name="myItemId" value="locations" />
+-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+-            </PATH_ELEMENT>
+           </PATH>
+           <PATH>
+             <PATH_ELEMENT>
+@@ -287,7 +357,7 @@
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+             <PATH_ELEMENT>
+-              <option name="myItemId" value="views" />
++              <option name="myItemId" value="assets" />
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+           </PATH>
+@@ -305,9 +375,13 @@
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+             <PATH_ELEMENT>
+-              <option name="myItemId" value="models" />
++              <option name="myItemId" value="assets" />
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
++            <PATH_ELEMENT>
++              <option name="myItemId" value="javascripts" />
++              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
++            </PATH_ELEMENT>
+           </PATH>
+           <PATH>
+             <PATH_ELEMENT>
+@@ -322,45 +396,40 @@
+               <option name="myItemId" value="app" />
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+-          </PATH>
+-          <PATH>
+             <PATH_ELEMENT>
+-              <option name="myItemId" value="analysistool" />
+-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+-            </PATH_ELEMENT>
+-            <PATH_ELEMENT>
+-              <option name="myItemId" value="analysistool" />
++              <option name="myItemId" value="assets" />
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+             <PATH_ELEMENT>
+-              <option name="myItemId" value="app" />
++              <option name="myItemId" value="javascripts" />
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+             <PATH_ELEMENT>
+-              <option name="myItemId" value="controllers" />
++              <option name="myItemId" value="maps" />
+               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+             </PATH_ELEMENT>
+           </PATH>
+         </subPane>
+       </pane>
++      <pane id="RailsProjectView" />
+     </panes>
+   </component>
+   <component name="PropertiesComponent">
+     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="102" />
+     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="131" />
+     <property name="options.splitter.main.proportions" value="0.3" />
+-    <property name="recentsLimit" value="5" />
+-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="133" />
++    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
++    <property name="recentsLimit" value="5" />
+     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+-    <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
+     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="133" />
+-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="807" />
++    <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
+     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="807" />
++    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="807" />
+     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="133" />
+     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="131" />
+-    <property name="Database.TableEditor.Splitter" value="0.9" />
++    <property name="Database.TableEditor.Splitter" value="0.8999999" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+@@ -371,9 +440,9 @@
+     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+     <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
+-    <property name="Ruby.ViewRefParam.DefaultExtension" value="html.erb" />
+-    <property name="options.searchVisible" value="true" />
+     <property name="dynamic.classpath" value="false" />
++    <property name="options.searchVisible" value="true" />
++    <property name="Ruby.ViewRefParam.DefaultExtension" value="html.erb" />
+   </component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+@@ -664,7 +733,7 @@
+         <item index="1" class="java.lang.String" itemvalue="Rake.db:migrate" />
+         <item index="2" class="java.lang.String" itemvalue="Rake.db:migrate" />
+         <item index="3" class="java.lang.String" itemvalue="Rake.db:migrate" />
+-        <item index="4" class="java.lang.String" itemvalue="Rake.routes" />
++        <item index="4" class="java.lang.String" itemvalue="Rake.db:migrate" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -728,21 +797,22 @@
+     <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
+     <editor active="false" />
+     <layout>
++      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21538462" sideWeight="0.4878444" order="7" side_tool="false" content_ui="tabs" />
+       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.49675852" order="7" side_tool="false" content_ui="tabs" />
+       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.49675852" order="6" side_tool="false" content_ui="tabs" />
+-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32820097" sideWeight="0.76461536" order="3" side_tool="false" content_ui="tabs" />
++      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14019449" sideWeight="0.76461536" order="3" side_tool="false" content_ui="tabs" />
+       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28038898" sideWeight="0.4430769" order="1" side_tool="true" content_ui="tabs" />
+-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29011345" sideWeight="0.67230767" order="0" side_tool="false" content_ui="combo" />
++      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26418152" sideWeight="0.76461536" order="0" side_tool="false" content_ui="combo" />
+       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39384118" sideWeight="0.43059936" order="2" side_tool="true" content_ui="tabs" />
+-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5676923" sideWeight="0.49756888" order="7" side_tool="true" content_ui="tabs" />
++      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21538462" sideWeight="0.50648296" order="7" side_tool="true" content_ui="tabs" />
+       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23538461" sideWeight="0.92046934" order="2" side_tool="false" content_ui="tabs" />
+       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.49359658" order="7" side_tool="false" content_ui="tabs" />
++      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21570796" sideWeight="0.4910913" order="7" side_tool="false" content_ui="tabs" />
+       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+@@ -783,7 +853,7 @@
+     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+-    <option name="LAST_COMMIT_MESSAGE" value="removed tables from views (bad practice), except for index" />
++    <option name="LAST_COMMIT_MESSAGE" value="tarea 2.1 y 2.2, la animación esta pendiente, agrego la tabla de json para cada usuario y en el detalle del usuario se ven sus trayectorias" />
+     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+@@ -798,6 +868,7 @@
+     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+     <MESSAGE value="Git integration to RubyMine" />
+     <MESSAGE value="removed tables from views (bad practice), except for index" />
++    <MESSAGE value="tarea 2.1 y 2.2, la animación esta pendiente, agrego la tabla de json para cada usuario y en el detalle del usuario se ven sus trayectorias" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+@@ -810,102 +881,102 @@
+     </breakpoint-manager>
+   </component>
+   <component name="editorHistoryManager">
+-    <entry file="file://$PROJECT_DIR$/app/views/locations/index.html.haml">
++    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+       <provider selected="true" editor-type-id="text-editor">
+         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+       </provider>
+     </entry>
+-    <entry file="dbDummy://dbElement:/3b8edfb7/6f27130f-467f-4168-baf7-2c2f05e2f9e1/..schema_migrations">
+-      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+-        <state />
++    <entry file="file://$PROJECT_DIR$/app/views/locations/index.html.haml">
++      <provider selected="true" editor-type-id="text-editor">
++        <state line="0" column="0" selection-start="0" selection-end="15" vertical-scroll-proportion="-0.0" />
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/app/helpers/locations_helper.rb">
++    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+-          <folding />
+-        </state>
++        <state line="28" column="46" selection-start="819" selection-end="819" vertical-scroll-proportion="0.0" />
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/app/views/locations/show.html.haml">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state line="4" column="0" selection-start="145" selection-end="145" vertical-scroll-proportion="-2.6153846">
++        <state line="6" column="48" selection-start="229" selection-end="229" vertical-scroll-proportion="-3.9230769" />
++      </provider>
++    </entry>
++    <entry file="dbDummy://dbElement:/3b8edfb7/6f27130f-467f-4168-baf7-2c2f05e2f9e1/..gpssamples">
++      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
++        <state />
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
++      <provider selected="true" editor-type-id="text-editor">
++        <state line="1" column="25" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.haml">
++    <entry file="file://$PROJECT_DIR$/app/views/users/new.html.haml">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state line="10" column="35" selection-start="165" selection-end="165" vertical-scroll-proportion="0.29565218">
++        <state line="9" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="-5.8846154">
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/app/assets/images/rails.png">
+-      <provider selected="true" editor-type-id="images">
+-        <state />
+-      </provider>
+-    </entry>
+-    <entry file="dbDummy://dbElement:/3b8edfb7/6f27130f-467f-4168-baf7-2c2f05e2f9e1/..locations">
++    <entry file="dbDummy://dbElement:/3b8edfb7/6f27130f-467f-4168-baf7-2c2f05e2f9e1/..users">
+       <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+         <state />
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/db/migrate/20120927210553_create_locations.rb">
++    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state line="10" column="0" selection-start="433" selection-end="433" vertical-scroll-proportion="0.3761062">
++        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/test/fixtures/data_files.yml">
++    <entry file="file://$PROJECT_DIR$/app/controllers/gpssamples_controller.rb">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state line="11" column="5" selection-start="353" selection-end="353" vertical-scroll-proportion="0.47704083" />
++        <state line="25" column="15" selection-start="940" selection-end="940" vertical-scroll-proportion="0.7179054">
++          <folding />
++        </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/test/unit/data_file_test.rb">
++    <entry file="file://$PROJECT_DIR$/app/views/users/show.html.haml">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/app/views/locations/convexo.html.haml">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
++        <state line="13" column="53" selection-start="395" selection-end="395" vertical-scroll-proportion="-8.5">
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/db/migrate/20121022055330_add_timestamps_to_locations.rb">
++    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/maps/locations.js">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state line="5" column="35" selection-start="128" selection-end="128" vertical-scroll-proportion="0.21683674">
++        <state line="109" column="72" selection-start="4079" selection-end="4079" vertical-scroll-proportion="0.0">
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/app/models/location.rb">
++    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state line="3" column="0" selection-start="169" selection-end="169" vertical-scroll-proportion="0.123786405">
++        <state line="67" column="2" selection-start="1684" selection-end="1684" vertical-scroll-proportion="0.0">
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/app/views/locations/resultados.html.haml">
++    <entry file="file://$PROJECT_DIR$/app/views/users/index.html.haml">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state line="3" column="16" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
++        <state line="9" column="44" selection-start="193" selection-end="193" vertical-scroll-proportion="-5.8846154">
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/app/views/locations/buscar.html.haml">
++    <entry file="file://$PROJECT_DIR$/app/controllers/locations_controller.rb">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state line="17" column="36" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
++        <state line="164" column="7" selection-start="4256" selection-end="4256" vertical-scroll-proportion="0.0">
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/app/controllers/locations_controller.rb">
++    <entry file="file://$PROJECT_DIR$/app/views/locations/resultados.html.haml">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state line="95" column="44" selection-start="2663" selection-end="2663" vertical-scroll-proportion="0.027777778">
++        <state line="3" column="46" selection-start="63" selection-end="63" vertical-scroll-proportion="0.11617312">
+           <folding />
+         </state>
+       </provider>
+Index: app/views/locations/resultados.html.haml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>%h1.title Lista puntos de interes cercanos a su ubicación\n\n%p=@path\n%p=@parametros\n\n%table#table\n  %thead\n    %tr\n      %th Nombre\n      %th Latitud\n      %th Longitud\n      %th Descripción\n      %th\n      %th\n      %th\n  %tbody\n    - @res.each do |location|\n      %tr\n        %td= link_to location.name, location_path(location), :method => :get\n        %td= location.latitude\n        %td= location.longitude\n        %td= location.description\n        %td= link_to \"Editar\", edit_location_path(location)\n        %td= link_to \"Borrar\", location_path(location), :method => :delete, :confirm => '¿Esta seguro?'\n\n%p= show_flash\n\n\n%p=link_to 'Buscar otra ubicación', locations_buscar_path\n\n%p= link_to 'Volver a lista de ubicaciones', locations_path\n
+===================================================================
+--- app/views/locations/resultados.html.haml	(date 1350922243000)
++++ app/views/locations/resultados.html.haml	(revision )
+@@ -1,3 +1,10 @@
++.map
++  %div#map
++
++%input#locations{:type => "hidden", :value => @locations_json}
++%input#casco{:type => "hidden", :value => @casco_json}
++%input#ruta{:type => "hidden", :value => @ruta_json}
++
+ %h1.title Lista puntos de interes cercanos a su ubicación
+ 
+ %p=@path
+@@ -29,3 +36,13 @@
+ %p=link_to 'Buscar otra ubicación', locations_buscar_path
+ 
+ %p= link_to 'Volver a lista de ubicaciones', locations_path
++
++
++
++
++= javascript_include_tag '/assets/maps/OpenLayers'
++= javascript_include_tag '/assets/maps/locations'
++
++:javascript
++  initMap($("#locations").val(),$("#casco").val());
++  addRoute($("#ruta").val());
+\ No newline at end of file
+Index: app/views/locations/index.html.haml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>%h1.title Lista de ubicaciones de interés\n\n%table#table\n  %thead\n    %tr\n      %th Nombre\n      %th Latitud\n      %th Longitud\n      %th Descripción \n      %th\n      %th\n      %th\n  %tbody\n    - @locations.each do |location|\n      %tr\n        %td= link_to location.name, location_path(location), :method => :get\n        %td= location.latitude\n        %td= location.longitude\n        %td= location.description\n        %td= link_to \"Editar\", edit_location_path(location)\n        %td= link_to \"Borrar\", location_path(location), :method => :delete, :confirm => '¿Esta seguro?'\n\n%p= show_flash\n\n%p=link_to \"Crear nueva ubicación\", new_location_path\n%p=link_to \"Buscar ubicaciones\", locations_buscar_path\n%p=link_to \"Casco convexo\", locations_convexo_path\n\n%p=link_to \"Borrar todo\", destroy_all_locations_path, :method => :get, :confirm => '¿Esta seguro?'\n
+===================================================================
+--- app/views/locations/index.html.haml	(date 1350922243000)
++++ app/views/locations/index.html.haml	(revision )
+@@ -1,3 +1,12 @@
++.map
++  %div#map
++
++%input#locations{:type => "hidden", :value => @locations_json}
++%input#casco{:type => "hidden", :value => @casco_json}
++
++
++%p
++
+ %h1.title Lista de ubicaciones de interés
+ 
+ %table#table
+@@ -23,7 +32,44 @@
+ %p= show_flash
+ 
+ %p=link_to "Crear nueva ubicación", new_location_path
+-%p=link_to "Buscar ubicaciones", locations_buscar_path
+-%p=link_to "Casco convexo", locations_convexo_path
+ 
++%p
++
++%h1.title Puntos del casco convexo
++
++%p='Perimetro del casco convexo: ' +@distancia.to_s
++
++%table#table
++  %thead
++    %tr
++      %th Nombre
++      %th Latitud
++      %th Longitud
++      %th Descripción
++      %th
++      %th
++      %th
++  %tbody
++    -@casco.each do |location|
++      %tr
++        %td= link_to location.name, location_path(location), :method => :get
++        %td= location.latitude
++        %td= location.longitude
++        %td= location.description
++        %td= link_to "Editar", edit_location_path(location)
++        %td= link_to "Borrar", location_path(location), :method => :delete, :confirm => '¿Está seguro?'
++
++%h1.title Punto de interés más lejano visitado a partir de Home
++%p='Sitio más lejano: '+@lejano
++
++
++%p=link_to "Buscar ubicaciones", locations_buscar_path
+ %p=link_to "Borrar todo", destroy_all_locations_path, :method => :get, :confirm => '¿Esta seguro?'
++
++
++
++= javascript_include_tag '/assets/maps/OpenLayers'
++= javascript_include_tag '/assets/maps/locations'
++
++:javascript
++  initMap($("#locations").val(),$("#casco").val() );
+\ No newline at end of file
+Index: app/views/locations/buscar.html.haml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>%h1.title Buscar ubicación de interés visitadas\n\n%h2.title Por coordenadas\n= form_tag locations_resultados_path :method => :get do\n\n  = label :sitio,:latitude, 'Latitud'\n  = text_field :sitio,:latitude\n\n  = label :sitio,:longitude, 'Longitud'\n  = text_field :sitio,:longitude\n  %p\n  = submit_tag 'Buscar sitio'\n\n%p\n\n%h2.title Por coordenadas en un archivo json\n\n= form_tag locations_resultados_path do\n  = file_field_tag :json\n  = submit_tag 'Cargar archivo'\n%p\n\n= link_to 'Volver a lista de ubicaciones', locations_path\n
+===================================================================
+--- app/views/locations/buscar.html.haml	(date 1350922243000)
++++ app/views/locations/buscar.html.haml	(revision )
+@@ -15,7 +15,7 @@
+ 
+ %h2.title Por coordenadas en un archivo json
+ 
+-= form_tag locations_resultados_path do
++= form_tag locations_resultados_path :method =>:post do
+   = file_field_tag :json
+   = submit_tag 'Cargar archivo'
+ %p
+Index: app/models/location.rb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>class Location < ActiveRecord::Base\n  # Set attributes as accessible for mass-assignment\n  attr_accessible :latitude, :longitude, :name, :description, :timestamp, :user\n\nend\n
+===================================================================
+--- app/models/location.rb	(date 1350922243000)
++++ app/models/location.rb	(revision )
+@@ -3,3 +3,83 @@
+   attr_accessible :latitude, :longitude, :name, :description, :timestamp, :user
+ 
+ end
++
++#implementación del método de haversine para calcular la distancia entre dos coordenadas
++def distance(l1,l2)
++  #equivalencia de kilometros a radianes
++  km = 6376
++  #cambio a radianes
++  lat1=l1.latitude*Math::PI/180
++  lat2=l2.latitude*Math::PI/180
++  lon1=l1.longitude*Math::PI/180
++  lon2=l2.longitude*Math::PI/180
++  dlon = lon2 - lon1
++  dlat = lat2 - lat1
++  #aplicar formula de haversine
++  a = (Math.sin(dlat/2))**2 + Math.cos(lat1) * Math.cos(lat2) * (Math.sin(dlon/2))**2
++  c = 2 * Math.atan2( Math.sqrt(a), Math.sqrt(1-a))
++  km * c*1000
++end
++
++#implementación del método para verificar sí una coordenada esta dentro de otra en un radio r
++def inside?(l1,l2,r)
++  distance(l1,l2)<r
++end
++
++#implementación del método para checar en que ubicación dentro de las conocidas en el arreglo se encuentra (en un radio r)
++def where?(l1,locations,r)
++
++  locations.each do |l|
++    if distance(l1, l)<r
++      return l.name
++    end
++  end
++  false
++end
++
++# after graham & andrew
++# @param [Object] points
++def convex(points)
++  lop = points.sort_by { |p| p.latitude }
++  left = lop.shift
++  right = lop.pop
++  lower, upper = [left], [left]
++  lower_hull, upper_hull = [], []
++  det_func = determinant_function(left, right)
++  until lop.empty?
++    p = lop.shift
++    ( det_func.call(p) < 0 ? lower : upper ) << p
++  end
++  lower << right
++  until lower.empty?
++    lower_hull << lower.shift
++    while (lower_hull.size >= 3) &&
++        !convex?(lower_hull.last(3), true)
++      last = lower_hull.pop
++      lower_hull.pop
++      lower_hull << last
++    end
++  end
++  upper << right
++  until upper.empty?
++    upper_hull << upper.shift
++    while (upper_hull.size >= 3) &&
++        !convex?(upper_hull.last(3), false)
++      last = upper_hull.pop
++      upper_hull.pop
++      upper_hull << last
++    end
++  end
++  upper_hull.shift
++  upper_hull.pop
++  lower_hull + upper_hull.reverse
++end
++
++def determinant_function(p0, p1)
++  proc { |p| ((p0.latitude-p1.latitude)*(p.longitude-p1.longitude))-((p.latitude-p1.latitude)*(p0.longitude-p1.longitude)) }
++end
++
++def convex?(list_of_three, lower)
++  p0, p1, p2 = list_of_three
++  (determinant_function(p0, p2).call(p1) > 0) ^ lower
++end
+Index: app/views/users/index.html.haml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/views/users/index.html.haml	(revision )
++++ app/views/users/index.html.haml	(revision )
+@@ -0,0 +1,29 @@
++.map
++  %div#map
++
++%input#locations{:type => "hidden", :value => @locations_json}
++%input#casco{:type => "hidden", :value => @casco_json}
++
++%h1.title Lista de usuarios
++%table#table
++  %thead
++    %tr
++      %th Nombre
++      %th
++  %tbody
++    - @users.each do |user|
++      %tr
++        %article
++          %td= link_to user.name, user_path(user)
++          %td= link_to "Borrar", user_path(user), :method => :delete, :confirm => 'Are you sure?'
++
++%p= show_flash
++
++%p=link_to "Crear nuevo usuario", new_user_path
++
++
++= javascript_include_tag '/assets/maps/OpenLayers'
++= javascript_include_tag '/assets/maps/locations'
++
++:javascript
++  initMap($("#locations").val(),$("#casco").val());
+Index: config/routes.rb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Analysistool::Application.routes.draw do\n\n  get 'locations/buscar'\n  get 'locations/resultados'\n  get 'locations/convexo'\n  get 'locations/subir'\n  post 'locations/resultados'\n  # The priority is based upon order of creation:\n  # first created -> highest priority.\n\n  # Sample of regular route:\n  #   match 'products/:id' => 'catalog#view'\n  # Keep in mind you can assign values other than :controller and :action\n\n  # Sample of named route:\n  #   match 'products/:id/purchase' => 'catalog#purchase', :as => :purchase\n  # This route can be invoked with purchase_url(:id => product.id)\n\n  # Sample resource route (maps HTTP verbs to controller actions automatically):\n  #   resources :products\n\n\n\n  resources :locations do\n    collection do\n      get :destroy_all\n    end\n  end\n\n  # Sample resource route with options:\n  #   resources :products do\n  #     member do\n  #       get 'short'\n  #       post 'toggle'\n  #     end\n  #\n  #     collection do\n  #       get 'sold'\n  #     end\n  #   end\n\n  # Sample resource route with sub-resources:\n  #   resources :products do\n  #     resources :comments, :sales\n  #     resource :seller\n  #   end\n\n  # Sample resource route with more complex sub-resources\n  #   resources :products do\n  #     resources :comments\n  #     resources :sales do\n  #       get 'recent', :on => :collection\n  #     end\n  #   end\n\n  # Sample resource route within a namespace:\n  #   namespace :admin do\n  #     # Directs /admin/products/* to Admin::ProductsController\n  #     # (app/controllers/admin/products_controller.rb)\n  #     resources :products\n  #   end\n\n  # You can have the root of your site routed with \"root\"\n  # just remember to delete public/index.html.\n  # root :to => 'welcome#index'\n\n  # See how all your routes lay out with \"rake routes\"\n\n  # This is a legacy wild controller route that's not recommended for RESTful applications.\n  # Note: This route will make all actions in every controller accessible via GET requests.\n  # match ':controller(/:action(/:id))(.:format)'\nend\n
+===================================================================
+--- config/routes.rb	(date 1350922243000)
++++ config/routes.rb	(revision )
+@@ -19,7 +19,15 @@
+   # Sample resource route (maps HTTP verbs to controller actions automatically):
+   #   resources :products
+ 
++  resources :users do
++    collection do
++      get :destroy_all
++    end
++  end
+ 
++  resources :users do
++    resources :gpssamples
++  end
+ 
+   resources :locations do
+     collection do
+Index: app/controllers/locations_controller.rb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>class LocationsController < ApplicationController\n  def index\n    # get all locations in the table locations\n    @locations = Location.all\n  end\n\n  def new\n    # default: render ’new’ template (\\app\\views\\locations\\new.html.haml)\n  end\n\n  def create\n    # create a new instance variable called @location that holds a Location object built from the data the user submitted\n    @location = Location.new(params[:location])\n\n    # if the object saves correctly to the database\n    if @location.save\n      # redirect the user to index\n      redirect_to locations_path, notice: 'Location was successfully created.'\n    else\n      # redirect the user to the new method\n      render action: 'new'\n    end\n  end\n\n  def edit\n    # find only the location that has the id defined in params[:id]\n    @location = Location.find(params[:id])\n  end\n\n  def update\n    # find only the location that has the id defined in params[:id]\n    @location = Location.find(params[:id])\n\n    # if the object saves correctly to the database\n    if @location.update_attributes(params[:location])\n      # redirect the user to index\n      redirect_to locations_path, notice: 'Location was successfully updated.'\n    else\n      # redirect the user to the edit method\n      render action: 'edit'\n    end\n  end\n\n  def destroy\n    # find only the location that has the id defined in params[:id]\n    @location = Location.find(params[:id])\n\n    # delete the location object and any child objects associated with it\n    @location.destroy\n\n    # redirect the user to index\n    redirect_to locations_path, notice: 'Location was successfully deleted.'\n  end\n\n  def destroy_all\n    # delete all location objects and any child objects associated with them\n    Location.destroy_all\n\n    # redirect the user to index\n    redirect_to locations_path, notice: 'All locations were successfully deleted.'\n  end\n\n  def show\n    # default: render ’show’ template (\\app\\views\\locations\\show.html.haml)\n    @location = Location.find(params[:id])\n  end\n\n  def buscar\n\n  end\n\n  def resultados\n    @locations=Location.all\n    @res=Array.new()\n\n    if params[:sitio] #búsqueda por coordenadas\n      @sitio=Location.new(params[:sitio])\n      #aqui invoco el método de la tarea 1\n      @locations.each { |loc|\n        if inside?(loc, @sitio, 100)\n          @res.push(loc)\n        end }\n    end\n    if request.post?\n        archivo=params[:json]\n        @parametros=params\n        nombre=archivo\n        directorio=\"tmp/public/tmp\"\n        @path=File.join(directorio, nombre)\n\n        #File.open(@path,\"wb+\") do |f|\n          #f.write(archivo.read)\n        #end\n\n        f = File.read(@path)\n        coordenadas = JSON.parse(f)\n\n        coordenadas.each {|coord|\n          @sitio=Location.new(coord)\n          @locations.each { |loc|\n            if inside?(loc, @sitio, 100)\n              @res.push(loc)\n            end }\n        }\n    end\n  end\n\n\n  def convexo\n    @locations=Location.all\n    #calcular el casco convexo\n    @casco=convex(@locations)\n    #calcular el perimetro del casco convexo\n    @distancia=perimetro(@casco)\n    #buscar el sitio mas lejano a home\n    @home=Location.find_all_by_name('Home')\n    @lejano=lejano(@casco,@home)\n  end\n\n\n\n# @param [Location] lista\n  def perimetro(lista)\n    #se requieren al menos tres puntos para definir un perimetro\n    if lista.length>=3\n      i=0\n      distancia=0\n      while i<lista.length-1\n        distancia=distancia+distance(lista[i],lista[i+1])\n        i=i+1\n      end\n      distancia+distance(lista[i],lista[0])\n    else\n      0\n    end\n  end\n\n# @param [Location] lista\n# @param [Location] home\n  def lejano(lista, home)\n    #buscar home en las ubicaciones\n    if !home.blank?\n      #buscar la distancia mas grande entre home y alguno de los puntos y guardarla\n      lista.sort_by! {|e| distance(e,home[0])}\n      lista.reverse!\n      lista[0].name\n    else\n      \"No hay ubicación home\"\n    end\n  end\n\n#implementación del método de haversine para calcular la distancia entre dos coordenadas\n  def distance(l1,l2)\n    #equivalencia de kilometros a radianes\n    km = 6376\n    #cambio a radianes\n    lat1=l1.latitude*Math::PI/180\n    lat2=l2.latitude*Math::PI/180\n    lon1=l1.longitude*Math::PI/180\n    lon2=l2.longitude*Math::PI/180\n    dlon = lon2 - lon1\n    dlat = lat2 - lat1\n    #aplicar formula de haversine\n    a = (Math.sin(dlat/2))**2 + Math.cos(lat1) * Math.cos(lat2) * (Math.sin(dlon/2))**2\n    c = 2 * Math.atan2( Math.sqrt(a), Math.sqrt(1-a))\n    km * c*1000\n  end\n\n#implementación del método para verificar sí una coordenada esta dentro de otra en un radio r\n  def inside?(l1,l2,r)\n    distance(l1,l2)<r\n  end\n\n#implementación del método para checar en que ubicación dentro de las conocidas en el arreglo se encuentra (en un radio r)\n  def where?(l1,locations,r)\n\n    locations.each do |l|\n      if distance(l1, l)<r\n        return l.name\n      end\n    end\n    false\n  end\n\n# after graham & andrew\n# @param [Object] points\n  def convex(points)\n    lop = points.sort_by { |p| p.latitude }\n    left = lop.shift\n    right = lop.pop\n    lower, upper = [left], [left]\n    lower_hull, upper_hull = [], []\n    det_func = determinant_function(left, right)\n    until lop.empty?\n      p = lop.shift\n      ( det_func.call(p) < 0 ? lower : upper ) << p\n    end\n    lower << right\n    until lower.empty?\n      lower_hull << lower.shift\n      while (lower_hull.size >= 3) &&\n          !convex?(lower_hull.last(3), true)\n        last = lower_hull.pop\n        lower_hull.pop\n        lower_hull << last\n      end\n    end\n    upper << right\n    until upper.empty?\n      upper_hull << upper.shift\n      while (upper_hull.size >= 3) &&\n          !convex?(upper_hull.last(3), false)\n        last = upper_hull.pop\n        upper_hull.pop\n        upper_hull << last\n      end\n    end\n    upper_hull.shift\n    upper_hull.pop\n    lower_hull + upper_hull.reverse\n  end\n\n  def determinant_function(p0, p1)\n    proc { |p| ((p0.latitude-p1.latitude)*(p.longitude-p1.longitude))-((p.latitude-p1.latitude)*(p0.longitude-p1.longitude)) }\n  end\n\n  def convex?(list_of_three, lower)\n    p0, p1, p2 = list_of_three\n    (determinant_function(p0, p2).call(p1) > 0) ^ lower\n  end\n\n\n\nend\n
+===================================================================
+--- app/controllers/locations_controller.rb	(date 1350922243000)
++++ app/controllers/locations_controller.rb	(revision )
+@@ -2,6 +2,16 @@
+   def index
+     # get all locations in the table locations
+     @locations = Location.all
++    @locations_json=@locations.to_json
++
++    #calcular el casco convexo
++    @casco=convex(@locations)
++    @casco_json=@casco.to_json
++
++    @distancia=perimetro(@casco)
++    #buscar el sitio mas lejano a home
++    @home=Location.find_all_by_name('Home')
++    @lejano=lejano(@casco,@home)
+   end
+ 
+   def new
+@@ -73,6 +83,15 @@
+     @locations=Location.all
+     @res=Array.new()
+ 
++
++    # get all locations in the table locations
++    @locations = Location.all
++    @locations_json=@locations.to_json
++
++    #calcular el casco convexo
++    @casco=convex(@locations)
++    @casco_json=@casco.to_json
++
+     if params[:sitio] #búsqueda por coordenadas
+       @sitio=Location.new(params[:sitio])
+       #aqui invoco el método de la tarea 1
+@@ -81,7 +100,8 @@
+           @res.push(loc)
+         end }
+     end
+-    if request.post?
++    if request.post? and params[:json]
++
+         archivo=params[:json]
+         @parametros=params
+         nombre=archivo
+@@ -102,7 +122,10 @@
+               @res.push(loc)
+             end }
+         }
++        @ruta=coordenadas
+     end
++    @ruta_json=@ruta.to_json
++    @res_json=@res.to_json
+   end
+ 
+ 
+@@ -149,85 +172,7 @@
+     end
+   end
+ 
+-#implementación del método de haversine para calcular la distancia entre dos coordenadas
+-  def distance(l1,l2)
+-    #equivalencia de kilometros a radianes
+-    km = 6376
+-    #cambio a radianes
+-    lat1=l1.latitude*Math::PI/180
+-    lat2=l2.latitude*Math::PI/180
+-    lon1=l1.longitude*Math::PI/180
+-    lon2=l2.longitude*Math::PI/180
+-    dlon = lon2 - lon1
+-    dlat = lat2 - lat1
+-    #aplicar formula de haversine
+-    a = (Math.sin(dlat/2))**2 + Math.cos(lat1) * Math.cos(lat2) * (Math.sin(dlon/2))**2
+-    c = 2 * Math.atan2( Math.sqrt(a), Math.sqrt(1-a))
+-    km * c*1000
+-  end
+ 
+-#implementación del método para verificar sí una coordenada esta dentro de otra en un radio r
+-  def inside?(l1,l2,r)
+-    distance(l1,l2)<r
+-  end
+-
+-#implementación del método para checar en que ubicación dentro de las conocidas en el arreglo se encuentra (en un radio r)
+-  def where?(l1,locations,r)
+-
+-    locations.each do |l|
+-      if distance(l1, l)<r
+-        return l.name
+-      end
+-    end
+-    false
+-  end
+-
+-# after graham & andrew
+-# @param [Object] points
+-  def convex(points)
+-    lop = points.sort_by { |p| p.latitude }
+-    left = lop.shift
+-    right = lop.pop
+-    lower, upper = [left], [left]
+-    lower_hull, upper_hull = [], []
+-    det_func = determinant_function(left, right)
+-    until lop.empty?
+-      p = lop.shift
+-      ( det_func.call(p) < 0 ? lower : upper ) << p
+-    end
+-    lower << right
+-    until lower.empty?
+-      lower_hull << lower.shift
+-      while (lower_hull.size >= 3) &&
+-          !convex?(lower_hull.last(3), true)
+-        last = lower_hull.pop
+-        lower_hull.pop
+-        lower_hull << last
+-      end
+-    end
+-    upper << right
+-    until upper.empty?
+-      upper_hull << upper.shift
+-      while (upper_hull.size >= 3) &&
+-          !convex?(upper_hull.last(3), false)
+-        last = upper_hull.pop
+-        upper_hull.pop
+-        upper_hull << last
+-      end
+-    end
+-    upper_hull.shift
+-    upper_hull.pop
+-    lower_hull + upper_hull.reverse
+-  end
+-
+-  def determinant_function(p0, p1)
+-    proc { |p| ((p0.latitude-p1.latitude)*(p.longitude-p1.longitude))-((p.latitude-p1.latitude)*(p0.longitude-p1.longitude)) }
+-  end
+-
+-  def convex?(list_of_three, lower)
+-    p0, p1, p2 = list_of_three
+-    (determinant_function(p0, p2).call(p1) > 0) ^ lower
+-  end
+ 
+ 
+ 
+Index: .idea/dataSources.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"DataSourceManagerImpl\" compressed=\"false\" hash=\"1035614358\" />\n</project>\n\n
+===================================================================
+--- .idea/dataSources.xml	(date 1350922243000)
++++ .idea/dataSources.xml	(revision )
+@@ -1,5 +1,5 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="DataSourceManagerImpl" compressed="false" hash="1035614358" />
++  <component name="DataSourceManagerImpl" compressed="false" hash="2009447934" />
+ </project>
+ 
+Index: db/schema.rb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># encoding: UTF-8\n# This file is auto-generated from the current state of the database. Instead\n# of editing this file, please use the migrations feature of Active Record to\n# incrementally modify your database, and then regenerate this schema definition.\n#\n# Note that this schema.rb definition is the authoritative source for your\n# database schema. If you need to create the application database on another\n# system, you should be using db:schema:load, not running all the migrations\n# from scratch. The latter is a flawed and unsustainable approach (the more migrations\n# you'll amass, the slower it'll run and the greater likelihood for issues).\n#\n# It's strongly recommended to check this file into your version control system.\n\nActiveRecord::Schema.define(:version => 20121022055330) do\n\n  create_table \"locations\", :force => true do |t|\n    t.float   \"latitude\",    :limit => 53, :null => false\n    t.float   \"longitude\",   :limit => 53, :null => false\n    t.string  \"name\"\n    t.string  \"description\"\n    t.integer \"timestamp\"\n  end\n\nend\n
+===================================================================
+--- db/schema.rb	(date 1350922243000)
++++ db/schema.rb	(revision )
+@@ -11,14 +11,41 @@
+ #
+ # It's strongly recommended to check this file into your version control system.
+ 
+-ActiveRecord::Schema.define(:version => 20121022055330) do
++ActiveRecord::Schema.define(:version => 20121023142824) do
+ 
++  create_table "Gpssamples", :force => true do |t|
++    t.integer  "userid"
++    t.float    "latitude"
++    t.float    "longitude"
++    t.integer  "time"
++    t.string   "archivo"
++    t.datetime "created_at", :null => false
++    t.datetime "updated_at", :null => false
++  end
++
++  create_table "gps_samples", :force => true do |t|
++    t.integer  "userid"
++    t.integer  "latitude"
++    t.integer  "longitude"
++    t.integer  "time"
++    t.string   "archivo"
++    t.datetime "created_at", :null => false
++    t.datetime "updated_at", :null => false
++  end
++
+   create_table "locations", :force => true do |t|
+     t.float   "latitude",    :limit => 53, :null => false
+     t.float   "longitude",   :limit => 53, :null => false
+     t.string  "name"
+     t.string  "description"
+     t.integer "timestamp"
++  end
++
++  create_table "users", :force => true do |t|
++    t.string   "name"
++    t.string   "string"
++    t.datetime "created_at", :null => false
++    t.datetime "updated_at", :null => false
+   end
+ 
+ end

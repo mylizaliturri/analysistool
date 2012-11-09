@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  time: MyString
+  integer: MyString
+  count: MyString
+  integer: MyString
+  userid: MyString
+  integer: MyString
+
+two:
+  time: MyString
+  integer: MyString
+  count: MyString
+  integer: MyString
+  userid: MyString
+  integer: MyString
